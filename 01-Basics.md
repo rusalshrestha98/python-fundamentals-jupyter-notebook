@@ -1,7 +1,13 @@
+# Basics
+
+## 1.) Printing 'Hello World'
+
+### In this program below, you learn how to use the build-in print() function to print the string "Hello World".
 
 ```python
-num1 = 1
-num2 = 2
-def add (num1, num2):
-    return num1 + num2
+print("Hello World!")
 ```
+
+## 2.) Comments
+
+## 3.) Spacing
