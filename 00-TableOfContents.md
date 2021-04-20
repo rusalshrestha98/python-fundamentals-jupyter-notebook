@@ -1,5 +1,8 @@
 # Table of Contents
 ## 1.) Basics
+1. Intro
+1. Installation
+1. Pip
 1. Printing
 1. Comments
 1. Spacing
