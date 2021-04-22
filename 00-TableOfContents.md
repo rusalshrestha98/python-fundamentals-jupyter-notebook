@@ -46,6 +46,9 @@
 1. While Loops
 
 ## 7.) List Comprehension
+1. What is List Comprehension?
+1. Basic Syntax
+1. Examples
 
 ## 8.) Functions
 1. What is a Function
