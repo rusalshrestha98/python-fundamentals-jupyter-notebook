@@ -92,7 +92,7 @@ MyVariableName = "John"
 ```
 * Snake Case: each word is separated by an underscore character
 ```python
-2my_variable_name = "John"
+my_variable_name = "John"
 ```
 
 ## 8.) Assigning Multiple Values
