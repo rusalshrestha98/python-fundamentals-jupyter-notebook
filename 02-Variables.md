@@ -123,8 +123,28 @@ print(y)
 print(z)
 ```
 
-## 9.) Global Variables
-### Variables that are created outside of a function (as in all of the examples above) are known as global variables. Global variables can be used by everyone, both inside of functions and outside.
+## 9.) Scope of Variables
+#### Scope of a variable is the portion of a program where the variable is recognized. 
+* Local Scope: A variable created inside a function belongs to the local scope of that function, and can only be used inside that function. In the example below, the variable x is not available outside the function, but it is available for any function inside the function.
+```python
+def myfunc():
+  x = 300
+  print(x)
+
+myfunc()
+```
+
+```python
+def myfunc():
+  x = 300
+  def myinnerfunc():
+    print(x)
+  myinnerfunc()
+
+myfunc()
+```
+
+* Global Scope: Variables that are created outside of a function are known as global variables. Global variables can be used by everyone, both inside of functions and outside.
 ```python
 x = "awesome"
 

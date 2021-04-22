@@ -18,7 +18,7 @@
 1. Assigning Multiple Values
 1. One Value to Multiple Variables
 1. Unpack a Collection
-1. Global Variables
+1. Scope of Variables
 
 ## 3.) Data Types
 1. Strings
@@ -48,8 +48,16 @@
 ## 7.) List Comprehension
 
 ## 8.) Functions
+1. What is a Function
+1. Types of Functions
+1. Creating a Function
 1. Calling a Function
-1. Arguments
+1. Parameters and Arguments
+1. Keyword Arguments
+1. Default Parameter Value
+1. Passing a List as an Argument
+1. Return Values
+1. The "pass" Statement
 
 ## 9.) Classes and Objects
 1. Definition of a Class
