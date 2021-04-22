@@ -60,7 +60,9 @@
 1. The "pass" Statement
 
 ## 9.) Classes and Objects
-1. Definition of a Class
-1. Definition of an Object
+1. What are Classes and Objects
+1. Creating a Class
+1. Creating an Object
+1. Constructors
 1. Encapsulation
 1. Inheritance
