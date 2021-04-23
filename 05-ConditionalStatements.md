@@ -7,7 +7,7 @@ my_age = 18
 if my_age >= 18 :
     print("You are an adult.")
 
-    Result: You are an adult.
+    #Result: You are an adult.
 ```
 
 ## 2.) If/Else Statements
@@ -19,7 +19,7 @@ if H2o_is_water == False:
 else:
     print("You are correct")
 
-    Result: You are correct
+    #Result: You are correct
 ```
 
 ## 3.) If/Else/Elif Statements
@@ -33,5 +33,5 @@ elif first_name == "Doe":
 else:
     print("Who are you?")
 
-    Result: Who are you?
+    #Result: Who are you?
 
