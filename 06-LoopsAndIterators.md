@@ -8,15 +8,15 @@ while counter < 10:
     print("Hello World!")
     counter = counter + 1
 
-    #Result: Hello World!
-            #Hello World!
-            #Hello World!
-            #Hello World!
-            #Hello World!
-            #Hello World!
-            #Hello World!
-            #Hello World!
-            #Hello World!
+    #Result:  #Hello World!
+              #Hello World!
+              #Hello World!
+              #Hello World!
+              #Hello World!
+              #Hello World!
+              #Hello World!
+              #Hello World!
+              #Hello World!
 ```
 ## 2.) For Loops
 ```python
@@ -25,9 +25,9 @@ list_of_accessories = ['Scarf', 'Socks', 'Shoes', 'Belt']
 for clothes in list_of_accessories:
 print(clothes)
 
-#Result: #Scarf
-        #Socks
-        #Shoes
-        #Belt 
+#Result:  #Scarf
+          #Socks
+          #Shoes
+          #Belt 
 
 ```
