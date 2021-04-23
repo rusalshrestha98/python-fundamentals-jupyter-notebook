@@ -23,7 +23,7 @@ while counter < 10:
 list_of_accessories = ['Scarf', 'Socks', 'Shoes', 'Belt']
 
 for clothes in list_of_accessories:
-print(clothes)
+     print(clothes)
 
 #Result:  #Scarf
           #Socks
