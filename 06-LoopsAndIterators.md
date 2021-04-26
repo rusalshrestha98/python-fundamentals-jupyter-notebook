@@ -8,16 +8,6 @@ counter = 0
 while counter < 10:
     print("Hello World!")
     counter = counter + 1
-
-    #Result:  #Hello World!
-              #Hello World!
-              #Hello World!
-              #Hello World!
-              #Hello World!
-              #Hello World!
-              #Hello World!
-              #Hello World!
-              #Hello World!
 ```
 ## 2.) For Loops
 #### A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
@@ -30,10 +20,4 @@ list_of_accessories = ['Scarf', 'Socks', 'Shoes', 'Belt']
 
 for clothes in list_of_accessories:
      print(clothes)
-
-#Result:  #Scarf
-          #Socks
-          #Shoes
-          #Belt 
-
 ```
