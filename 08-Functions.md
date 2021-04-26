@@ -104,8 +104,8 @@ my_function(fruits)
 def multiply(x):
   return 3 * x
 
-print(my_function(3))
-print(my_function(5))
+print(multiply(3))
+print(multiply(5))
 ```
 #### If the return statement itself is not present inside a function, then the function will return the "None" object.
 
@@ -114,4 +114,5 @@ print(my_function(5))
 ```python
 def myfunction():
   pass
+print(myfunction())
 ```

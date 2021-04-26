@@ -2,7 +2,6 @@
 
 ## 1.) What is List Comprension?
 #### List comprehension is a way to build a new list by applying an expression to each item in an iterable.
-<p>&nbsp;</p>
 
 #### Without list comprehension you will have to write a for statement with a conditional test inside:
 ```python
@@ -42,18 +41,14 @@ newlist = [x.upper() for x in fruits]
 ```
 #### Example #3: applies abs() function to all the elements in a list
 ```python
-# Convert list items to absolute values
 firstlist = [-4, -2, 0, 2, 4]
 newlist = [abs(x) for x in firstlist]
 print(newlist)
-# Prints [4, 2, 0, 2, 4]
 ```
 
-#### Example #4: calls a built-in method strip() on each element in a list.
+#### Example #4: calls a built-in method strip() to remove whitespaces on each element in a list.
 ```python
-# Remove whitespaces of list items
 colors = ['  red', '  green ', 'blue  ']
 newlist = [color.strip() for color in colors]
 print(newlist)
-# Prints ['red', 'green', 'blue']
 ```
