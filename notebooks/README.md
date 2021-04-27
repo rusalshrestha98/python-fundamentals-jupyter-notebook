@@ -4,7 +4,7 @@
 
 3.) Run the command `cd Downloads` to navigate into the Downloads directory
 
-5.) Run the command `python3 -m venv env` to create a virtual environment called "env" in your Downloads directory
+5.) Run the command `python3 -m venv env` to create a virtual environment called "env" in your Downloads directory (you can change the name of this environment to anything else you want by replacing "env" with another name)
 
 7.) Run the command `source env/bin/activate` to activate your virtual environment
 
