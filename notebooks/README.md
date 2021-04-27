@@ -10,6 +10,6 @@
 
 9.) Run the command `pip3 install jupyterlab` to install JupyterLab in your virtual environment
 
-11.) Run the command `cd python-fundamentals-jupyter-notebook` to navigate into the Notebook directory
+11.) Run the command `cd python-fundamentals-jupyter-notebook/notebooks/` to navigate into the Notebook directory
 
 13.) Run the command `jupyter lab` to open the Jupyter notebook in your local environment
