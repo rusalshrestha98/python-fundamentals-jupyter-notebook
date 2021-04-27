@@ -1,8 +1,9 @@
 # Instructions:
 
 1.) Open up your terminal
-
-2.) Type in `code .` and press `Enter` to start Visual Studio Code
-
-3.) 
-
+3.) "cd" into the "Downloads" directory
+4.) Run the command `python3 -m venv env` to create a virtual environment in your "Downlaods" directory
+5.) Run the command `sournce env/bin/activate` to activate your virtual environment
+6.) Run the command `pip3 install jupyterlab` to install JupyterLab in your virtual environment
+7.) "cd" into the "python-fundamentals-jupyter-notebook" directory
+8.) Run the command `jupyter lab` to open the Jupyter notebook in your local environment
